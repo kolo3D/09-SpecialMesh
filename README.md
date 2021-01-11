@@ -16,5 +16,6 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 
 ## Links
 [Polski Kurs Blendera: Modelowanie: Techniki DupliVerts i DupliFaces](https://youtu.be/j4gKcE6pD9M)
+[Tissue](https://github.com/alessandro-zomparelli/tissue)
 
 ### Multicolor
