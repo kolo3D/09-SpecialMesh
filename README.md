@@ -6,9 +6,9 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 
 ## Software
 
-1. Voxel
-2. Organic
-3. Nurbs
+1. Metabals
+2. Voxel
+3. Nurbs, Organic
 4. Array, Micromesh,Tissue
 
 ```
