@@ -5,7 +5,9 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ## Topics
 
 1. Metabals, (rig, empty, pivot)
+![Metaballs](/Meta.JPG)
 2. Voxel
+![Voxel](/Voxel.JPG)
 3. Nurbs, Organic
 4. Array, Micromesh,Tissue
 
