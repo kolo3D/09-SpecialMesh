@@ -23,7 +23,10 @@ ZAD0903 - Przygotuj model architektoniczny z wykorzystaniem modyfikatorów.
 
 [Polski Kurs Blendera: Modelowanie: Techniki DupliVerts i DupliFaces](https://youtu.be/j4gKcE6pD9M)
 
+[BLENDER MESH DEFORMERS DISTRIBUTORS](https://youtu.be/JjjYbbkyhi0)
+
 [Tissue](https://github.com/alessandro-zomparelli/tissue)
 [Tissue - Morphing Components in Blender 2.80](https://www.youtube.com/watch?v=2Wcu9E0EGEM)
+
 
 ### Multicolor
